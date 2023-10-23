@@ -10,7 +10,7 @@ Clone this repository in Windows:
 git clone https://github.com/stamby23/portfolio.git 
 ```
 
-Or in a Unix-based OS (Linux, MacOS):
+Or in a Unix-based OS (Linux, macOS):
 
 ```bash
 sudo git clone https://github.com/stamby23/portfolio.git 
