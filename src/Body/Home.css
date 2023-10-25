@@ -1,0 +1,14 @@
+.container-fluid{
+    background-color:#606c38 ;
+    color: #dda15e;
+    padding-top: 30vh;
+    height: 100vh;
+}
+
+.namecard{
+    background-color: #283618;
+}
+
+#name{
+    font-size: 3rem;
+}

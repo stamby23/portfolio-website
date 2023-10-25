@@ -1,0 +1,21 @@
+.navbar{
+    font-family:monospace;
+    font-size: 1.5rem;
+}
+
+.nav-button{
+    margin: 20px;
+}
+
+.nav-items{
+    justify-content: center;
+}
+
+.nav-item{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.nav-link{
+    color: #dda15e;
+}
